@@ -43,13 +43,13 @@ They are stored on the heap and can be more complex than primitive types.
 String myString = "Hello, Java!";
 ```
 
-Array: Represents a collection of elements of the same type.
+### 2.2. Array: Represents a collection of elements of the same type.
 
 ```java
 int[] myArray = {1, 2, 3, 4, 5};
 ```
 
-Class Objects: Instances of user-defined classes.
+### 2.3. Class Objects: Instances of user-defined classes.
 
 ```java
 class Person {
@@ -62,7 +62,7 @@ person1.name = "John";
 person1.age = 25;
 ```
 
-Interface Types: Instances of interfaces.
+### 2.4. Interface Types: Instances of interfaces.
 
 ```java
 interface MyInterface {
